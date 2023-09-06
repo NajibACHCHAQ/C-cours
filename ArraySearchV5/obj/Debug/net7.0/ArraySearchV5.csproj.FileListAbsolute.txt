@@ -1,0 +1,14 @@
+C:\Users\cousi\OneDrive\Professionnel\Formation ASP.NET\CSharp\ArraySearchV5\bin\Debug\net7.0\ArraySearchV5.exe
+C:\Users\cousi\OneDrive\Professionnel\Formation ASP.NET\CSharp\ArraySearchV5\bin\Debug\net7.0\ArraySearchV5.deps.json
+C:\Users\cousi\OneDrive\Professionnel\Formation ASP.NET\CSharp\ArraySearchV5\bin\Debug\net7.0\ArraySearchV5.runtimeconfig.json
+C:\Users\cousi\OneDrive\Professionnel\Formation ASP.NET\CSharp\ArraySearchV5\bin\Debug\net7.0\ArraySearchV5.dll
+C:\Users\cousi\OneDrive\Professionnel\Formation ASP.NET\CSharp\ArraySearchV5\bin\Debug\net7.0\ArraySearchV5.pdb
+C:\Users\cousi\OneDrive\Professionnel\Formation ASP.NET\CSharp\ArraySearchV5\obj\Debug\net7.0\ArraySearchV5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cousi\OneDrive\Professionnel\Formation ASP.NET\CSharp\ArraySearchV5\obj\Debug\net7.0\ArraySearchV5.AssemblyInfoInputs.cache
+C:\Users\cousi\OneDrive\Professionnel\Formation ASP.NET\CSharp\ArraySearchV5\obj\Debug\net7.0\ArraySearchV5.AssemblyInfo.cs
+C:\Users\cousi\OneDrive\Professionnel\Formation ASP.NET\CSharp\ArraySearchV5\obj\Debug\net7.0\ArraySearchV5.csproj.CoreCompileInputs.cache
+C:\Users\cousi\OneDrive\Professionnel\Formation ASP.NET\CSharp\ArraySearchV5\obj\Debug\net7.0\ArraySearchV5.dll
+C:\Users\cousi\OneDrive\Professionnel\Formation ASP.NET\CSharp\ArraySearchV5\obj\Debug\net7.0\refint\ArraySearchV5.dll
+C:\Users\cousi\OneDrive\Professionnel\Formation ASP.NET\CSharp\ArraySearchV5\obj\Debug\net7.0\ArraySearchV5.pdb
+C:\Users\cousi\OneDrive\Professionnel\Formation ASP.NET\CSharp\ArraySearchV5\obj\Debug\net7.0\ArraySearchV5.genruntimeconfig.cache
+C:\Users\cousi\OneDrive\Professionnel\Formation ASP.NET\CSharp\ArraySearchV5\obj\Debug\net7.0\ref\ArraySearchV5.dll

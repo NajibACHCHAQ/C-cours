@@ -1,0 +1,14 @@
+C:\Users\cousi\OneDrive\Professionnel\Formation ASP.NET\CSharp\ArraySearchV4\obj\Debug\net7.0\ArraySearchV4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cousi\OneDrive\Professionnel\Formation ASP.NET\CSharp\ArraySearchV4\obj\Debug\net7.0\ArraySearchV4.AssemblyInfoInputs.cache
+C:\Users\cousi\OneDrive\Professionnel\Formation ASP.NET\CSharp\ArraySearchV4\obj\Debug\net7.0\ArraySearchV4.AssemblyInfo.cs
+C:\Users\cousi\OneDrive\Professionnel\Formation ASP.NET\CSharp\ArraySearchV4\obj\Debug\net7.0\ArraySearchV4.csproj.CoreCompileInputs.cache
+C:\Users\cousi\OneDrive\Professionnel\Formation ASP.NET\CSharp\ArraySearchV4\bin\Debug\net7.0\ArraySearchV4.exe
+C:\Users\cousi\OneDrive\Professionnel\Formation ASP.NET\CSharp\ArraySearchV4\bin\Debug\net7.0\ArraySearchV4.deps.json
+C:\Users\cousi\OneDrive\Professionnel\Formation ASP.NET\CSharp\ArraySearchV4\bin\Debug\net7.0\ArraySearchV4.runtimeconfig.json
+C:\Users\cousi\OneDrive\Professionnel\Formation ASP.NET\CSharp\ArraySearchV4\bin\Debug\net7.0\ArraySearchV4.dll
+C:\Users\cousi\OneDrive\Professionnel\Formation ASP.NET\CSharp\ArraySearchV4\bin\Debug\net7.0\ArraySearchV4.pdb
+C:\Users\cousi\OneDrive\Professionnel\Formation ASP.NET\CSharp\ArraySearchV4\obj\Debug\net7.0\ArraySearchV4.dll
+C:\Users\cousi\OneDrive\Professionnel\Formation ASP.NET\CSharp\ArraySearchV4\obj\Debug\net7.0\refint\ArraySearchV4.dll
+C:\Users\cousi\OneDrive\Professionnel\Formation ASP.NET\CSharp\ArraySearchV4\obj\Debug\net7.0\ArraySearchV4.pdb
+C:\Users\cousi\OneDrive\Professionnel\Formation ASP.NET\CSharp\ArraySearchV4\obj\Debug\net7.0\ArraySearchV4.genruntimeconfig.cache
+C:\Users\cousi\OneDrive\Professionnel\Formation ASP.NET\CSharp\ArraySearchV4\obj\Debug\net7.0\ref\ArraySearchV4.dll

@@ -1,0 +1,28 @@
+C:\Users\cousi\source\repos\Greta\CSharp\MaisQuestCeQuilFaitV2\obj\Debug\net7.0\MaisQuestCeQuilFaitV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cousi\source\repos\Greta\CSharp\MaisQuestCeQuilFaitV2\obj\Debug\net7.0\MaisQuestCeQuilFaitV2.AssemblyInfoInputs.cache
+C:\Users\cousi\source\repos\Greta\CSharp\MaisQuestCeQuilFaitV2\obj\Debug\net7.0\MaisQuestCeQuilFaitV2.AssemblyInfo.cs
+C:\Users\cousi\source\repos\Greta\CSharp\MaisQuestCeQuilFaitV2\obj\Debug\net7.0\MaisQuestCeQuilFaitV2.csproj.CoreCompileInputs.cache
+C:\Users\cousi\source\repos\Greta\CSharp\MaisQuestCeQuilFaitV2\bin\Debug\net7.0\MaisQuestCeQuilFaitV2.exe
+C:\Users\cousi\source\repos\Greta\CSharp\MaisQuestCeQuilFaitV2\bin\Debug\net7.0\MaisQuestCeQuilFaitV2.deps.json
+C:\Users\cousi\source\repos\Greta\CSharp\MaisQuestCeQuilFaitV2\bin\Debug\net7.0\MaisQuestCeQuilFaitV2.runtimeconfig.json
+C:\Users\cousi\source\repos\Greta\CSharp\MaisQuestCeQuilFaitV2\bin\Debug\net7.0\MaisQuestCeQuilFaitV2.dll
+C:\Users\cousi\source\repos\Greta\CSharp\MaisQuestCeQuilFaitV2\bin\Debug\net7.0\MaisQuestCeQuilFaitV2.pdb
+C:\Users\cousi\source\repos\Greta\CSharp\MaisQuestCeQuilFaitV2\obj\Debug\net7.0\MaisQuestCeQuilFaitV2.dll
+C:\Users\cousi\source\repos\Greta\CSharp\MaisQuestCeQuilFaitV2\obj\Debug\net7.0\refint\MaisQuestCeQuilFaitV2.dll
+C:\Users\cousi\source\repos\Greta\CSharp\MaisQuestCeQuilFaitV2\obj\Debug\net7.0\MaisQuestCeQuilFaitV2.pdb
+C:\Users\cousi\source\repos\Greta\CSharp\MaisQuestCeQuilFaitV2\obj\Debug\net7.0\MaisQuestCeQuilFaitV2.genruntimeconfig.cache
+C:\Users\cousi\source\repos\Greta\CSharp\MaisQuestCeQuilFaitV2\obj\Debug\net7.0\ref\MaisQuestCeQuilFaitV2.dll
+C:\Users\cousi\OneDrive\Professionnel\Formation ASP.NET\CSharp\MaisQuestCeQuilFaitV2\bin\Debug\net7.0\MaisQuestCeQuilFaitV2.exe
+C:\Users\cousi\OneDrive\Professionnel\Formation ASP.NET\CSharp\MaisQuestCeQuilFaitV2\bin\Debug\net7.0\MaisQuestCeQuilFaitV2.deps.json
+C:\Users\cousi\OneDrive\Professionnel\Formation ASP.NET\CSharp\MaisQuestCeQuilFaitV2\bin\Debug\net7.0\MaisQuestCeQuilFaitV2.runtimeconfig.json
+C:\Users\cousi\OneDrive\Professionnel\Formation ASP.NET\CSharp\MaisQuestCeQuilFaitV2\bin\Debug\net7.0\MaisQuestCeQuilFaitV2.dll
+C:\Users\cousi\OneDrive\Professionnel\Formation ASP.NET\CSharp\MaisQuestCeQuilFaitV2\bin\Debug\net7.0\MaisQuestCeQuilFaitV2.pdb
+C:\Users\cousi\OneDrive\Professionnel\Formation ASP.NET\CSharp\MaisQuestCeQuilFaitV2\obj\Debug\net7.0\MaisQuestCeQuilFaitV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cousi\OneDrive\Professionnel\Formation ASP.NET\CSharp\MaisQuestCeQuilFaitV2\obj\Debug\net7.0\MaisQuestCeQuilFaitV2.AssemblyInfoInputs.cache
+C:\Users\cousi\OneDrive\Professionnel\Formation ASP.NET\CSharp\MaisQuestCeQuilFaitV2\obj\Debug\net7.0\MaisQuestCeQuilFaitV2.AssemblyInfo.cs
+C:\Users\cousi\OneDrive\Professionnel\Formation ASP.NET\CSharp\MaisQuestCeQuilFaitV2\obj\Debug\net7.0\MaisQuestCeQuilFaitV2.csproj.CoreCompileInputs.cache
+C:\Users\cousi\OneDrive\Professionnel\Formation ASP.NET\CSharp\MaisQuestCeQuilFaitV2\obj\Debug\net7.0\MaisQuestCeQuilFaitV2.dll
+C:\Users\cousi\OneDrive\Professionnel\Formation ASP.NET\CSharp\MaisQuestCeQuilFaitV2\obj\Debug\net7.0\refint\MaisQuestCeQuilFaitV2.dll
+C:\Users\cousi\OneDrive\Professionnel\Formation ASP.NET\CSharp\MaisQuestCeQuilFaitV2\obj\Debug\net7.0\MaisQuestCeQuilFaitV2.pdb
+C:\Users\cousi\OneDrive\Professionnel\Formation ASP.NET\CSharp\MaisQuestCeQuilFaitV2\obj\Debug\net7.0\MaisQuestCeQuilFaitV2.genruntimeconfig.cache
+C:\Users\cousi\OneDrive\Professionnel\Formation ASP.NET\CSharp\MaisQuestCeQuilFaitV2\obj\Debug\net7.0\ref\MaisQuestCeQuilFaitV2.dll
